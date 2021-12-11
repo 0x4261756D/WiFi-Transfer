@@ -6,5 +6,5 @@ File transfer tool for Linux, inspired by [Wifi/WLAN Plugin for TotalCommander](
 
 ## Usage: ##
 ```terminal
-./transfer.sh \<paths to the files you want to transfer\>
+./transfer.sh <paths to the files you want to transfer>
 ```

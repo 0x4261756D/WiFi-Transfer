@@ -1,3 +1,5 @@
+**Moved to [Codeberg](https://codeberg.org/0x4261756D/WiFi-Transfer)**
+
 # WiFi-Transfer
 File transfer tool for Linux, inspired by [Wifi/WLAN Plugin for TotalCommander](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer).
 
